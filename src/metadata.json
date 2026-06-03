@@ -1,0 +1,6 @@
+{
+  "name": "Heart Disease Prediction System",
+  "description": "Interactive machine learning visualization and patient diagnostic platform demonstrating Decision Tree and Random Forest models for heart disease classification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
